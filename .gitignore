@@ -12,10 +12,8 @@ server.*
 .class
 .springBeans
 .settings/
-.history/
 target/
-logs/
-node_modules/
+src/main/webapp/node_modules/
 
 # maven ignore
 target/
